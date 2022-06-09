@@ -20,4 +20,4 @@
 <h3 align="left">Stats:</h3>
 
 [![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amxnbahl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amxnbahl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amxnbahl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
