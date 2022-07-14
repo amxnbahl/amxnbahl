@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java and C++**
 
 <h3 align="left">Socials: </h3>
-https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)(https://www.hackerrank.com/amxnbahl)
 
 <h3 align="left">Languages and Tools:</h3>
 
