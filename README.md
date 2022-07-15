@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java and C++**
 
 <h3 align="left">Socials: </h3>
-<a href=""> <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+<a href=""> <img src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://www.hackerrank.com/amxnbahl"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 <a href="https://www.codechef.com/users/amanbahl"> <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
   </a>
